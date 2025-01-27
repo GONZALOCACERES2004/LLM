@@ -90,3 +90,7 @@ La vida útil del modelo está sustentada por:
 ## Conclusión
 
 El enfoque sistemático adoptado para la selección y preparación de datos, junto con la implementación cuidadosa del modelo, asegura que el chatbot cumpla con los requerimientos técnicos establecidos. Al combinar calidad en la retroalimentación con un modelo robusto, se garantiza que el chatbot evolucione constantemente, mejorando su precisión y utilidad en el soporte técnico para productos electrónicos. Este proyecto no solo representa una solución innovadora sino también una herramienta valiosa para mejorar la experiencia del cliente en el ámbito tecnológico.
+
+![Imagen de Ejemplo](1.png)
+![Imagen de Ejemplo](2.png)
+![Imagen de Ejemplo](3.png)
