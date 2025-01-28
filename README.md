@@ -6,6 +6,10 @@ El desarrollo de un chatbot de asistencia técnica para productos electrónicos 
 
 Teniendo en cuenta los recursos (RAM 12,6 y uso de CPU) se utilizará el **Modelo BERT Multilingüe** (Permite manejar consultas en español y captura el significado contextual de las palabras), junto con la **Vectorización TF-IDF** (Computacionalmente menos intensivo que BERT, lo que ayuda a equilibrar el uso de recursos, permite una primera fase de filtrado eficiente y combina bien con BERT, ofreciendo tanto búsqueda por palabras clave como comprensión semántica).
 
+El enfoque es **altamente escalable y adaptable** a otros tipos de chatbots especializados debido a su diseño modular y la combinación eficiente de **TF-IDF + BERT**. Con ajustes mínimos (principalmente en los datos), se puede reutilizar el código para crear chatbots en áreas como **salud**, **educación**, **finanzas** o **leyes**.
+
+Esto convierte la implementación no solo en una solución efectiva para soporte técnico, sino también en una base sólida para construir chatbots especializados en una variedad de industrias. ¡Es un diseño versátil e innovador!
+
 Se presentan pruebas realizadas en consola, archivo `Bert-chat.ipynb`. Se realizan pruebas utilizando Streamlit para la interfaz interactiva, archivo `Bert_chat_streamlit.ipynb`.
 
 ## Definición del Problema
