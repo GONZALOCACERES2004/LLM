@@ -10,7 +10,7 @@ El enfoque es **altamente escalable y adaptable** a otros tipos de chatbots espe
 
 Esto convierte la implementación no solo en una solución efectiva para soporte técnico, sino también en una base sólida para construir chatbots especializados en una variedad de industrias. ¡Es un diseño versátil e innovador!
 
-Se presentan pruebas realizadas en consola, archivo `Bert-chat.ipynb`. Se realizan pruebas utilizando Streamlit para la interfaz interactiva, archivo `Bert_chat_streamlit.ipynb`. Se adiciona opcion de validar la calificacion para guardar el registro, archivo `Chat_streamlit.ipynb`. 
+Se presentan pruebas realizadas en consola, archivo `Bert-chat.ipynb`. Se realizan pruebas utilizando Streamlit para la interfaz interactiva, archivo `Bert_chat_streamlit.ipynb`. Se adiciona opcion de validar la calificación para guardar el registro, archivo `Chat_streamlit.ipynb`. 
 
 ## Definición del Problema
 
